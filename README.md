@@ -1,8 +1,7 @@
-### Hi there 👋
-
-![banner](https://user-images.githubusercontent.com/60405284/153978435-7325bce0-b29d-45c7-b38f-f83d6121e82e.png)
+<h1> Hi there, my name is Leonel and I am a Junior developer </h1>
 
 
+![March Motivation Banner (2)](https://user-images.githubusercontent.com/60405284/153983222-adaaa177-c3a5-464b-87a2-c618bf277d51.jpg)
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
