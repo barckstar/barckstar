@@ -8,9 +8,14 @@
 </head>
 <body>
 
-<div class="container p-5 my-5 border">
-  <h1>My First Bootstrap Page</h1>
-  <p>This container has a border and some extra padding and margins.</p>
+<div class="container-fluid mt-3">
+  <h1>Three equal width columns</h1>
+  <p>Note: Try to add a new div with class="col" inside the row class - this will create four equal-width columns.</p>
+  <div class="row">
+    <div class="col p-3 bg-primary text-white">.col</div>
+    <div class="col p-3 bg-dark text-white">.col</div>
+    <div class="col p-3 bg-primary text-white">.col</div>
+  </div>
 </div>
 
 </body>
